@@ -1,0 +1,4 @@
+repository "AR_professor_index@keioexperiment@cloud"
+  path "/"
+    br "/main"
+    co "/main"
